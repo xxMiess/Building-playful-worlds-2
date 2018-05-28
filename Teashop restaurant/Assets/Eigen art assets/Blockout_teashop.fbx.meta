@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 49990f2d9425cca4d90b1991acabbfeb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bonsai_tree_bak
+    100004: Cabinets
+    100006: Counter
+    100008: Cussion
+    100010: Cussion 1
+    100012: Cussion 2
+    100014: Cussion 3
+    100016: Cussion 4
+    100018: Cussion1
+    100020: Cussion1 1
+    100022: Cussion1 2
+    100024: Cussion1 3
+    100026: Cussion1 4
+    100028: grandma
+    100030: pCube1
+    100032: pCube2
+    100034: Room
+    100036: Table
+    100038: Table 1
+    100040: Table 2
+    100042: Table 3
+    100044: Table 4
+    100046: Table_group_1
+    100048: Table_group_2
+    100050: Table_group_3
+    100052: Table_group_4
+    100054: Table_group_5
+    100056: transform1
+    100058: transform2
+    400000: //RootNode
+    400002: Bonsai_tree_bak
+    400004: Cabinets
+    400006: Counter
+    400008: Cussion
+    400010: Cussion 1
+    400012: Cussion 2
+    400014: Cussion 3
+    400016: Cussion 4
+    400018: Cussion1
+    400020: Cussion1 1
+    400022: Cussion1 2
+    400024: Cussion1 3
+    400026: Cussion1 4
+    400028: grandma
+    400030: pCube1
+    400032: pCube2
+    400034: Room
+    400036: Table
+    400038: Table 1
+    400040: Table 2
+    400042: Table 3
+    400044: Table 4
+    400046: Table_group_1
+    400048: Table_group_2
+    400050: Table_group_3
+    400052: Table_group_4
+    400054: Table_group_5
+    400056: transform1
+    400058: transform2
+    2100000: lambert1
+    2300000: Bonsai_tree_bak
+    2300002: Cabinets
+    2300004: Counter
+    2300006: Cussion
+    2300008: Cussion 1
+    2300010: Cussion 2
+    2300012: Cussion 3
+    2300014: Cussion 4
+    2300016: Cussion1
+    2300018: Cussion1 1
+    2300020: Cussion1 2
+    2300022: Cussion1 3
+    2300024: Cussion1 4
+    2300026: grandma
+    2300028: Room
+    2300030: Table
+    2300032: Table 1
+    2300034: Table 2
+    2300036: Table 3
+    2300038: Table 4
+    3300000: Bonsai_tree_bak
+    3300002: Cabinets
+    3300004: Counter
+    3300006: Cussion
+    3300008: Cussion 1
+    3300010: Cussion 2
+    3300012: Cussion 3
+    3300014: Cussion 4
+    3300016: Cussion1
+    3300018: Cussion1 1
+    3300020: Cussion1 2
+    3300022: Cussion1 3
+    3300024: Cussion1 4
+    3300026: grandma
+    3300028: Room
+    3300030: Table
+    3300032: Table 1
+    3300034: Table 2
+    3300036: Table 3
+    3300038: Table 4
+    4300000: grandma
+    4300002: Cabinets
+    4300004: Counter
+    4300006: Room
+    4300008: Table
+    4300010: Cussion
+    4300012: Cussion1
+    4300014: Table
+    4300016: Cussion
+    4300018: Cussion1
+    4300020: Table
+    4300022: Cussion
+    4300024: Cussion1
+    4300026: Table
+    4300028: Cussion
+    4300030: Cussion1
+    4300032: Table
+    4300034: Cussion
+    4300036: Cussion1
+    4300038: Bonsai_tree_bak
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
